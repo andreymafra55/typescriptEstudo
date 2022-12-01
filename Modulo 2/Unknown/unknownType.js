@@ -12,7 +12,9 @@ let valor:unknown;
 let valor1:boolean = valor;
 */
 //===> Exemplo 3: Diferença entre: 'any' vs 'unknown'
-let algumaCoisaAny;
-let algumaCoisaUnknown;
+/*
+let algumaCoisaAny: any;
+let algumaCoisaUnknown: unknown;
+
 console.log(algumaCoisaAny.toFixed(2));
-console.log(algumaCoisaUnknown.toFixed(2));
+console.log(algumaCoisaUnknown.toFixed(2));*/
